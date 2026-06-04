@@ -111,10 +111,25 @@ npm run dev
 
 ## 📸 Ekran Görüntüleri
 
-| ![Görüntü 1](./images/image1.png) | ![Görüntü 2](./images/image2.png) |
-|:---:|:---:|
-| ![Görüntü 3](./images/image3.png) | ![Görüntü 4](./images/image4.png) |
-| ![Görüntü 5](./images/image5.png) | |
+![Görüntü 1](./images/image1.png)
+
+---
+
+![Görüntü 2](./images/image2.png)
+
+---
+
+![Görüntü 3](./images/image3.png)
+
+---
+
+![Görüntü 4](./images/image4.png)
+
+---
+
+![Görüntü 5](./images/image5.png)
+
+---
 
 ## ✨ Ana Özellikler
 
